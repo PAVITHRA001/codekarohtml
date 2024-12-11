@@ -1,0 +1,26 @@
+.box {
+  border:none;
+  border-radius: 8px;
+  background-color: #1de592;
+  margin: 50px auto;
+  width: 35%;
+  padding: 120px 50px;
+  font-family: monospace;
+}
+
+.heading {
+  font-family: monospace;
+  font-size: 50px;
+  width: 30px;
+  padding-bottom: 10px;
+}
+
+.button {
+  border: none;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 10px;
+  font-family: monospace;
+  font-weight: bold;
+  padding: 10px 30px;
+}
